@@ -1,5 +1,5 @@
 export default {
-    policyName: '',
+    policyName: 'Policy',
     applyToDirectory: '/',
     scheduleType: 'Daily or Weekly',
     timezone: 'N.America/Toronto',
