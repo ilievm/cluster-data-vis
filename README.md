@@ -2,6 +2,24 @@
 
 First, run the development server:
 
+Go to the "server" folder, install packages with 
+
+```bash
+npm install
+```
+and run 
+
+```bash
+npm run dev
+```
+
+Do the same for the "web client folder". Go inside it, run first 
+```bash
+npm install
+```
+
+and then 
+
 ```bash
 npm run dev
 ```
